@@ -1,25 +1,69 @@
-# CS112.L21.KHTN - Nhóm 3
-# Danh sách thành viên
-    1.Nguyễn Văn Chính - 19521287
-    2.Nguyễn Công Đức - 19521375
-# Assignments: 
-gồm các assignment được thầy giao trong quá trình học
-# 1
-Gồm 2 bài:
-+Tảo biển
-+BOT
-# 2
-Gồm 3 bài:
-+H_index
-+Khóa số
-+Con đường gốm sứ (KHTN)
-# 3
-Gồm 3 bài:
-+Đổi mới
-+Số nguyên mới
-+Hệ thống cấp nước
-# 4
-Gồm 3 bài:
-+Sửa hàng rào
-+Phân số
-+Khởi nghiệp
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "readme.ipynb",
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "_wvJLP8etOXh"
+      },
+      "source": [
+        "# **DANH SÁCH THÀNH VIÊN**"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "vnt3fJGvtSFf"
+      },
+      "source": [
+        "1. Nguyễn Văn Chính (19521287)\n",
+        "2.Nguyễn Công Đức (19521375)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ULsgD1u1tYLH"
+      },
+      "source": [
+        "# **Assignments**"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "P10sdcc5tcAR"
+      },
+      "source": [
+        "**Assignment_1:**\n",
+        "\n",
+        "Gồm 3 bài\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "uvv8lkNRtkGx"
+      },
+      "source": [
+        "**Assignment_2:**\n",
+        "\n",
+        "Gồm 3 bài"
+      ]
+    }
+  ]
+}
